@@ -1,9 +1,13 @@
 {
   "canisters": {
-    "challenges": {
-      "main": "day01.mo",
-      "type": "motoko"
-    }
+    "day01": {
+      "type": "motoko",
+      "main": "day01.mo"
+    },
+      "day02": {
+        "type": "motoko",
+        "main": "day02.mo"
+      }
   },
   "defaults": {
     "build": {
